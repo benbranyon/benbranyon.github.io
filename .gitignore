@@ -1,0 +1,16 @@
+# Jekyll build
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# DDEV
+.ddev/.importdb
+.ddev/.downloads
+.ddev/.logs
+.ddev/.dbdata
