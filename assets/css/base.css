@@ -12,11 +12,3 @@ body {
   color: #111;
   padding: 2rem;
 }
-
-/* Header */
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 2rem;
-}
